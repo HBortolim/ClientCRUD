@@ -1,0 +1,12 @@
+INSERT INTO tb_client (name,cpf,income,birth_date,children) values('Henrique Bortolim','1234434',3000.0,TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z',0);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) values('Henrique Martins','1234434',5000.0,TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z',1);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) values('Cristiano Ronaldo','1234434',8000.0,TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z',3);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) values('Cleiton Rasta','1234434',2000.0,TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z',0);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) values('Barbara Almeida','1234434',800.0,TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z',2);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) values('Isadora Pereira','1234434',900.0,TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z',1);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) values('Almir Luis','1234434',95000.0,TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z',0);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) values('Lionel Claudio','1234434',13000.0,TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z',3);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) values('Douglas Brito','1234434',9000.0,TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z',3);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) values('Lucas Merino','1234434',1000.0,TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z',0);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) values('Ednaldo Pereira','1234434',2000.0,TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z',0);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) values('Roger Guedes','1234434',3500.0,TIMESTAMP WITH TIME ZONE '2020-07-13T20:50:07.12345Z',2);
