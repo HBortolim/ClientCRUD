@@ -54,8 +54,7 @@ public class ClientService {
 	@Transactional
 	public ClientDTO updateClient(Long id, ClientDTO dto) {
 		try {
-			Client entity = repository.getOne(id);
-			entity.setId(dto.getId());
+			Client entity = repository.getById(id);
 			entity.setName(dto.getName());
 			entity.setCpf(dto.getCpf());
 			entity.setIncome(dto.getIncome());
